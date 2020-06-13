@@ -27,7 +27,7 @@ The program work with command-line arguments instead of the standard input and p
 - **key ()** If there is no -key, the program should consider that key = 0.
 - **mode ()** If there is no -mode, the program should work in enc mode.
 - **data()** If there is no -data, the program should assume that the data is an empty string.
-- **in() **specify the full name of a file to read data.
+- **in()** specify the full name of a file to read data.
 - **out()** specify the full name of a file to write the result.
 
 **Extra rules in different argument cases:**
