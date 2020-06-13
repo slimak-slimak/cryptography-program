@@ -1,9 +1,3 @@
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 # About
 Simple project  done on Hyperskill platform as a part of JetBrains Academy course. It tought the basics about cryptography and intrduce me to OOP.  It was my first solo project since graduading from Java bootcamp in 2019. 
 
