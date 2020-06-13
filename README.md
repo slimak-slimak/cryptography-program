@@ -1,5 +1,3 @@
-# cryptography-program
-Simple program for encryption text data. Done as a part of Java Developer track on Hyperskill
 **Table of Contents**
 
 [TOCM]
