@@ -11,10 +11,12 @@ public class Main {
         DataEncryptor dataEncryptor = new DataEncryptor(arguments.getAlg());
         String result;
         if (arguments.performEncryption()) {
+
             result = dataEncryptor.encrypt(data,mode,key);
+
         } else {
 
-              result = dataEncryptor.decrypt(data,mode,key);
+          result = dataEncryptor.decrypt(data,mode,key);
         }
 
         PrinterWriter printerWriter = new PrinterWriter(arguments);
