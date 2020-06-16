@@ -49,6 +49,5 @@ The program work with command-line arguments instead of the standard input and p
 Please note that you must** create -in file !**
 
 # Plans for future improvement
-- Unit Tests
 - code refactoring
 - documentation
